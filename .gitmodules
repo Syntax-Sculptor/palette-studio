@@ -1,0 +1,3 @@
+[submodule "lib/palette"]
+	path = lib/palette
+	url = https://github.com/Syntax-Sculptor/Palette.git
